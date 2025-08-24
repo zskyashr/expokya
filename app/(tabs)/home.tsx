@@ -22,7 +22,7 @@ export default function TabHome() {
       </Text>
 
       <Image 
-        source={require('../assets/images/logounismuh.jpg')} 
+        source={require('../../assets/images/logounismuh.jpg')} 
         style={{ 
           width: 300, 
           height: 200,  
